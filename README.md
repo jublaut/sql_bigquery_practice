@@ -1,0 +1,1 @@
+# sql_bigquery_practice
